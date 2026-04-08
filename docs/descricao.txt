@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Descrição da versão criada diretamente na main.
+=======
+Descrição da versão pela branch feature-ajuste-1.
+>>>>>>> feature-ajuste-1
